@@ -1,4 +1,3 @@
-# 🟣 Project 5 — Regression (Continuous Prediction)
 **Focus:** Regression Universe, Bias–Variance Tradeoff & Regularization  
 ---
 
